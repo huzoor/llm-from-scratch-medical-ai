@@ -16,6 +16,14 @@ Hands-on roadmap covering:
 - [ ] Build word tokenizer
 - [ ] Build word frequency counter
 
+*Neural Network Series*
+- https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+- Topics:
+    - Vectors
+    - Dot products
+    - Neural networks
+    - Backpropagation
+
 ## Day 2
 - [ ] Learn vectors
 - [ ] Learn cosine similarity
